@@ -1,6 +1,13 @@
 
-test version
+Wi-Fi controlled toycar 
 
-download and install .apk file to phone ( android version 4.4.2 and higher)
 
-arduino skecth run two motors, using H-brige scheme.
+How to use:
+
+1 -> download and install .apk file to phone 
+2 -> go to Wi-Fi settings, and connect esp serv 
+3 -> run App
+
+
+
+
